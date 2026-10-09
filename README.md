@@ -1,1 +1,1 @@
-# repo4practice
+hello from ec2
